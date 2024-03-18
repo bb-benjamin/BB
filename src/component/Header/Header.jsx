@@ -13,7 +13,7 @@ const Header = () => {
         <div className=" text-[24px] md:text-[32px] font-bold tracking-[0.44px] z-50">
             frederickasiamah
         </div>
-        <div className=" flex gap-5 z-50 lg:mr-5">
+        <div className=" flex gap-5 z-50 lg:mr-5 xl:mr-10">
             <Link to="https://www.github.com/sharpartzgh"><FaGithub className="w-[24px] h-[24px] cursor-pointer"/></Link>
             <Link to="https://www.frontendmentor.io/profile/sharpartzgh"><SiFrontendmentor className=" w-[24px] h-[24px]  cursor-pointer"/></Link>
             <Link to="https://www.linkedin.com/in/frederick-asiamah"><FaLinkedin className=" w-[24px] h-[24px] cursor-pointer"/></Link>

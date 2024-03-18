@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <body className=" container bg-black min-h-screen mx-auto">
+      <body className=" bg-black min-h-screen mx-auto">
         <div className='container mx-auto'>
           <Header/>
             <div className="top__shape ">
@@ -56,7 +56,7 @@ function App() {
         <section className=" container mx-auto bg-[#242424] z-0">
           <ContactUs/>
           <div className="top__shape ">
-              <img src={circles} alt="left-shape" className="absolute left-[-200px] top-[4292px] md:top-[2695px] lg:top-[3000px] xl:top-[2457px]" />
+              <img src={circles} alt="left-shape" className="absolute left-[-200px] top-[3882px] md:top-[2695px] lg:top-[3000px] xl:top-[2457px]" />
             </div>
           <hr className=' mx-5 mt-10 md:mt-20 ' />
           <Footer/>
