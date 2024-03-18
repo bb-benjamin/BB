@@ -25,8 +25,8 @@ const Projects = () => {
       "imageUrl": audiophile,
       "text": "AUDIOPHILE ECOMMERCE",
       "lang": "HTML CSS JAVASCRIPT",
-      "viewProjectsLink": "https://sharpartz-devfinder-app.netlify.app/",
-      "viewCodeLink": "https://github.com/sharpartzgh/devFinder-App"
+      "viewProjectsLink": "https://audiophile-e-shop.vercel.app/",
+      "viewCodeLink": "https://github.com/sharpartzgh/Audiophile-E-Shop"
     },
     {
       "imageUrl": countryapp,
