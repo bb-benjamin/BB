@@ -27,12 +27,12 @@ function App() {
 
             {/* for mobile devices and tablets */}
             <div className="middle__shape">
-            <img src={HalfOval} alt="left-shape" className=" lg:hidden absolute right-0 z-50 top-[354px] md:top-[471px]"/>
+            <img src={HalfOval} alt="left-shape" className=" lg:hidden absolute right-px z-50 top-[354px] md:top-[471px]"/>
             </div>
           
           {/* for laptops and other big screens */}
             <div className="middle__shape hidden lg:contents">
-            <img src={oval} alt="left-shape" className="absolute  right-0 z-50 top-[354px] lg:top-[521px] lg:left-[48.5%] xl:left-[58.5%]" />
+            <img src={oval} alt="left-shape" className="absolute  right-px z-50 top-[354px] lg:top-[521px] lg:left-[48.5%] xl:left-[58.5%]" />
             </div>
           <Hero/> 
           <hr className=' mx-5 my-5' />
